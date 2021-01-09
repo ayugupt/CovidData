@@ -4,4 +4,4 @@ This application is made using flutter and allows users to see the total coronav
 
 A graph is also made using the data to see the trends over a period of time.
 
-<p align = "center"><img src = "assets/main.jpg">   <img src = "assets/list.jpg">   <img src = "assets/details.jpg"></p>
+<p align = "center"><img src = "assets/main.jpg" width = "300">   <img src = "assets/list.jpg" width = "300">   <img src = "assets/details.jpg" width = "300"></p>
